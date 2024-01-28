@@ -6,7 +6,7 @@ chc = input("Do you love me?\n>> ").lower()
 if chc in ["yes", "i love you", "i like you", "maybe i can love you"]:
     print("Oh thank you so much, I love you too.")
 elif chc in ["maybe", "i have no idea"]:
-    print("Zamanımız var mı bilmeden her şeyi zamana bıraktık ✌🕊\nHadi bb.")
+    print("I understand, see you")
 else:
     print("Alright :(")
     time.sleep(1)
